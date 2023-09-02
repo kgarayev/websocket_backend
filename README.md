@@ -1,4 +1,4 @@
-# WebSocket Backend
+# WebSocket Backend :speech_balloon: 
 
 This repository hosts a WebSocket backend server built using Node.js. The server enables real-time communication between clients by utilising the WebSocket protocol.
 
